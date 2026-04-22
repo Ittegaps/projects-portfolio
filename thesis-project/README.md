@@ -1,4 +1,4 @@
-# Engineering Thesis Project – Data Management and Visualization for Sports Planning
+# Bachelor's Thesis Project – Data Management and Visualization for Sports Planning
 
 ## Project Overview
 This project is part of my engineering thesis focused on designing and developing a tool to improve data management in the process of planning training and competition strategies in a sports club (specifically in Club XYZ).
